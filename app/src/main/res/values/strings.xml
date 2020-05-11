@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMarket</string>
+
+    <string name="error_timeout">Не хватает скорости интернета</string>
+    <string name="error_not_connection">Нет соединения с интернетом</string>
+    <string name="error_unauthorised">Нет доступа</string>
+    <string name="error_not_found">Не найдено</string>
+    <string name="error_unknown">Что-то пошло не так</string>
+
+    <string name="toolbar_search">Поиск</string>
+    <string name="toolbar_top_ten">Топ 10</string>
+    <string name="toolbar_market">Магазины</string>
+    <string name="toolbar_product">Товары</string>
+
+    <string name="market_banner_empty_list">Список пуст</string>
+
+    <string name="info_title">Пустой экран :)</string>
+
+</resources>
